@@ -1,0 +1,3 @@
+displayName = Journey mode full research
+author = StarMage27
+version = 1.5
