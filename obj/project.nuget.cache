@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a7YFTZ2LrV0/5PZ7hNJg28ApUKI6dp3u20ze2lJOnLm/PSZg22dDUlJvFJgRR7U6yojZBRfnsOmz4qGon7PjtQ==",
+  "dgSpecHash": "SBKTex8GEmg/mqth2xgZ1YmBBqsJmtpnedwqQa2qYPD7AZU3C2uHWuDJuPdVYCoutUJgcfCDG9ZjlOnrtUcKGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj",
+  "projectFilePath": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dkfro\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+    "C:\\Users\\dkfro\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
   "logs": []
 }

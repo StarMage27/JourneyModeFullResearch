@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj": {}
+    "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj": {
-      "version": "6.0.0",
+    "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj",
+        "projectUniqueName": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj",
         "projectName": "JourneyModeFullResearch",
-        "projectPath": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj",
+        "projectPath": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\JourneyModeFullResearch\\JourneyModeFullResearch.csproj",
         "packagesPath": "C:\\Users\\dkfro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\JourneyModeFullResearch\\obj\\",
+        "outputPath": "C:\\Users\\dkfro\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\JourneyModeFullResearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

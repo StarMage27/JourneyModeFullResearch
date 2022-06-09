@@ -17,6 +17,7 @@ namespace JourneyModeFullResearch
             {
                 TheResearcher.Research();
             }
+
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[ModContent.ItemType<TheResearcher>()] = 0;
             Main.LocalPlayerCreativeTracker.ItemSacrifices.SetSacrificeCountDirectly(ContentSamples.ItemPersistentIdsByNetIds[ModContent.ItemType<TheResearcher>()], 0);
         }

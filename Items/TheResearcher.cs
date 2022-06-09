@@ -11,7 +11,7 @@ namespace JourneyModeFullResearch.Items
         public override void SetStaticDefaults()
         {
             Tooltip.SetDefault("Left click to research all items" +
-                "\nLeft click to reset research count of all items");
+                "\nRight click to reset research count of all items");
         }
 
         public override void SetDefaults()
@@ -39,15 +39,9 @@ namespace JourneyModeFullResearch.Items
             return true;
         }
 
-        public override bool CanUseItem(Player player)
-        {
-            return base.CanUseItem(player);
-        }
+        public override bool CanUseItem(Player player) => base.CanUseItem(player);
 
-        public override bool AltFunctionUse(Player player)
-        {
-            return true;
-        }
+        public override bool AltFunctionUse(Player player) => true;
 
         public static void Research()
         {
