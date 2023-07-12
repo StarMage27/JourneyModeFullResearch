@@ -11,7 +11,7 @@ namespace JourneyModeFullResearch
 {
     public class JMFRP : ModPlayer
     {
-        public override void OnEnterWorld(Player player)
+        public override void OnEnterWorld()
         {
             if (ModContent.GetInstance<JMFRConfig>().AutoResearchToggle.Equals(true))
             {

@@ -1,0 +1,14 @@
+Mods: {
+	JourneyModeFullResearch: {
+		Items: {
+			TheResearcher: {
+				DisplayName: The researcher
+				Tooltip:
+					'''
+					Left click to research all items
+					Right click to reset research count of all items 
+					'''
+			}
+		}
+	}
+}
