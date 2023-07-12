@@ -1,3 +1,5 @@
+<img src="https://github.com/StarMage27/JourneyModeFullResearch/blob/main/icon_workshop.png" width="200" />
+
 # JourneyModeFullResearch
 
 This mod adds an journey-mode-excluive item that can either research all items or reset research count of all items.
