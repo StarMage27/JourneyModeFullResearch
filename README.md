@@ -1,38 +1,3 @@
-<img src="https://github.com/StarMage27/JourneyModeFullResearch/blob/main/icon_workshop.png" width="200" />
-
-# JourneyModeFullResearch
-
-This mod adds an journey-mode-excluive item that can either research all items or reset research count of all items.
-It also works with modded items (If they are researchable).
-
-This mod also adds an option to research all items upon entering the world (disabled by default).
-
-If you encounter any bugs, report them on steam page of this mod.
-
-Update 2.0:
-- Updated mod to 1.4.4
-- Updated mod icon.
-- Updated The Researcher sprite.
-- Added Russian localization.
-
-Update 1.5:
-- Completely removed the unresearcher.
-- Changed The Researcher usage and sound.
-
-Update 1.4:
-- The Unresearcher is now unobtainable via duplication menu.
-- The researcher now resets all researches if you already have everything researched.
-- Added sounds.
-
-Update 1.3:
-- Now you can right click on The Researcher in the invertory to turn it into The Unresearcher.
-- Removed The Unresearcher from duplication menu.
-- Updated Icon.
-
-Update 1.2:
-- Added config to automatically research items upon entering the world.
-
-Update 1.1:
-- Items from this mod now always appear in duplication menu.
+A mod for tModLoader
 
 Steam page: https://steamcommunity.com/sharedfiles/filedetails/?id=2571927951
