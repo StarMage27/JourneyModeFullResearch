@@ -8,12 +8,6 @@ namespace JourneyModeFullResearch.Items
 {
     public class TheResearcher : ModItem
     {
-        public override void SetStaticDefaults()
-        {
-            /* Tooltip.SetDefault("Left click to research all items" +
-                "\nRight click to reset research count of all items"); */
-        }
-
         public override void SetDefaults()
         {
             Item.width = 16;
